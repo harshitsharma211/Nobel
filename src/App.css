@@ -1,0 +1,169 @@
+.Nobelprizeicon{
+  margin: 20px;
+
+height: 500px;
+margin-left: 268px;
+
+box-shadow: 10px 10px 0px 5px #6d3e3e;
+}
+table{
+  margin-right: 100px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  margin-left: 280px;
+  color: black;
+  width: 1000px;
+  border-color: #6d3e3e;
+}
+.laureates td{
+ 
+  text-align: center;
+  
+}
+#id{
+     padding-left:"20px";
+    text-align:"center"
+  
+}
+select{
+  width: 300px;
+  height: 35px;
+  background-color: transparent;
+  color: black;
+  font-weight: bold;
+  border-color: #4f2c2c;
+  font-weight: bold;
+  margin-left: 600px;
+  margin-top: 10px;
+}
+option{
+  background-color: #6d3e3e;
+}
+h2{
+  text-align: center;
+  margin-top: 30px;
+  color: #6d3e3e;
+  font-size: 30px;
+}
+h4{
+  text-align: center;
+  font-size: 25px;
+}
+a{
+  color: #6d3e3e;
+
+}
+p{
+  text-align: center;
+}
+#category{
+  width: 200px;
+  text-align: center;
+}
+#year{
+  width: 150px;
+  text-align: center;
+
+}
+.Desc{
+  margin-top: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+  margin: 40px;
+}
+
+
+
+#searchbtn{
+  background-color: #6d3e3e;
+  color: white;
+  margin-left: 20px;
+}
+
+.input-field {
+  width: 600px;
+  margin-left: 400px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 50px;
+  background-color: transparent;
+  color: #6d3e3e;
+  font-weight: bold;
+  border-color: #6d3e3e;
+}
+@media (max-width: 600px) {
+   table{
+   margin-left: 10PX;
+    width: 350px;
+    text-align: center;
+   
+   }
+   .Nobelprizeicon{
+    margin: 20px;
+  
+  width: 250px;
+  height: 200px;
+  margin-left: 50px;
+  
+  box-shadow: 10px 10px 0px 0px #6d3e3e;
+  }
+  select{
+    width: 200px;
+    height: 35px;
+   
+    margin-left: 80px;
+    margin-top: 10px;
+  }
+  .input-field {
+    width: 300px;
+    margin-left: 20px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 50px;
+   
+  }
+  #searchbtn{
+   
+    height: 20px;
+   margin-top: 20px;
+   margin-left: 150px;
+  }
+}
+h5{
+  text-align: center;
+}
+@media (max-width: 1200px) and (min-width : 600px) {
+  table{
+  margin-left: 30PX;
+   width: 700px;
+   text-align: center;
+  
+  }
+  .Nobelprizeicon{
+   margin: 20px;
+ 
+ width: 500px;
+ height: 300px;
+ margin-left: 100px;
+ 
+ }
+ select{
+   width: 400px;
+   height: 35px;
+ 
+   margin-left: 100px;
+   margin-top: 10px;
+ }
+ .input-field {
+   width: 500px;
+   margin-left: 50px;
+   padding: 10px;
+   text-align: center;
+   margin-top: 50px;
+   
+ }
+
+}
